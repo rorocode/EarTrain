@@ -48,7 +48,7 @@ if __name__ == '__main__':
     generate(numPref,chromPref)
     play(key)
     play(mix)
-    print("answer: "+answer)
+    print("answer="+answer)
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
