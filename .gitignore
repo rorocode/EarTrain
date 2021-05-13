@@ -4,3 +4,4 @@ main.spec
 venv
 .idea
 __pycache__
+releases
