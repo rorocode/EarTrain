@@ -120,6 +120,7 @@ def checkAnswer():
     if answered == False:
         inputanswer=answerField.get()
         guess = inputanswer.replace(" ","")
+        guess = guess.lower()
         truth = answer.replace(" ","")
         answerField.delete(0, tk.END)
         answered = True
