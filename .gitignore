@@ -5,3 +5,7 @@ venv
 .idea
 __pycache__
 releases
+main.exe
+streak.txt
+success.txt
+total.txt

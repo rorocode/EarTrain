@@ -206,7 +206,3 @@ if __name__ == '__main__':
     totalFile = open("total.txt", "w")
     totalFile.write(str(total))
     totalFile.close()
-
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
